@@ -1,6 +1,6 @@
-# Author: Ahmal Jawad Zafar
-# Created: 06/01/2021, 
-# Email: azafar2@gsu.edu
+% Author: Ahmal Jawad Zafar
+% Created: 06/01/2021, 
+% Email: azafar2@gsu.edu
 
 % ====================================================================
 % Graphene Quantum Ring Eigenvalue Solver
